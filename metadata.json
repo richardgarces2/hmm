@@ -1,0 +1,6 @@
+{
+  "name": "SaludFamiliar - Registro y Expediente Médico Familiar",
+  "description": "Aplicación integral para el historial médico familiar: consultas, medicamentos, vacunas, signos vitales, alergias y ficha de emergencia SOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
